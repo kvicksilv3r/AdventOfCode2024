@@ -1,0 +1,16 @@
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.exe
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.deps.json
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.runtimeconfig.json
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.runtimeconfig.dev.json
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.dll
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\ref\Aoc24.dll
+C:\Users\skink\source\repos\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.pdb
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.csproj.AssemblyReference.cache
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.AssemblyInfoInputs.cache
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.AssemblyInfo.cs
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.csproj.CoreCompileInputs.cache
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.dll
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\ref\Aoc24.dll
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.pdb
+C:\Users\skink\source\repos\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.genruntimeconfig.cache
