@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skink\\source\\repos\\Aoc24\\Aoc24\\Aoc24.csproj": {}
+    "C:\\Projects\\Code\\AdventOfCode2024\\Aoc24\\Aoc24\\Aoc24.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skink\\source\\repos\\Aoc24\\Aoc24\\Aoc24.csproj": {
+    "C:\\Projects\\Code\\AdventOfCode2024\\Aoc24\\Aoc24\\Aoc24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skink\\source\\repos\\Aoc24\\Aoc24\\Aoc24.csproj",
+        "projectUniqueName": "C:\\Projects\\Code\\AdventOfCode2024\\Aoc24\\Aoc24\\Aoc24.csproj",
         "projectName": "Aoc24",
-        "projectPath": "C:\\Users\\skink\\source\\repos\\Aoc24\\Aoc24\\Aoc24.csproj",
+        "projectPath": "C:\\Projects\\Code\\AdventOfCode2024\\Aoc24\\Aoc24\\Aoc24.csproj",
         "packagesPath": "C:\\Users\\skink\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skink\\source\\repos\\Aoc24\\Aoc24\\obj\\",
+        "outputPath": "C:\\Projects\\Code\\AdventOfCode2024\\Aoc24\\Aoc24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skink\\AppData\\Roaming\\NuGet\\NuGet.Config",

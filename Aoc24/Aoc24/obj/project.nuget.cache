@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MjI+wDFMAwwZ3iOjR4SEJdQ4QwkLq7RNZeMeqHCEXOmQ9yWi4Yp7Xk+F65Ld0czNjXswf9+yu+LHvxEzoV38SQ==",
+  "dgSpecHash": "rnc020FsiSJE18em9LUs6itD/2rvCOG5DyKBCTpwuLNchwho49l/+avb+dD+c1cAvgIDF1PJpyrUScAwlsdeaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skink\\source\\repos\\Aoc24\\Aoc24\\Aoc24.csproj",
+  "projectFilePath": "C:\\Projects\\Code\\AdventOfCode2024\\Aoc24\\Aoc24\\Aoc24.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

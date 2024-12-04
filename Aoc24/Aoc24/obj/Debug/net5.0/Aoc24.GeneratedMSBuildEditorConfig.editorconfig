@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Aoc24
-build_property.ProjectDir = C:\Users\skink\source\repos\Aoc24\Aoc24\
+build_property.ProjectDir = C:\Projects\Code\AdventOfCode2024\Aoc24\Aoc24\

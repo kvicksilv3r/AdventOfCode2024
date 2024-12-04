@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Aoc24
 {
 	class Day1
 	{
-		static void Main(string[] args)
+		public static void Solve()
 		{
 			int totalDistance = 0;
 			int similarity = 0;
@@ -14,7 +17,7 @@ namespace Aoc24
 			List<int> left = new List<int>();
 			List<int> right = new List<int>();
 
-			var rawInput = File.ReadAllLines(@"..\..\..\D1P1.txt");
+			var rawInput = File.ReadAllLines(@"..\..\..\D1.txt");
 
 			foreach (var entry in rawInput)
 			{
