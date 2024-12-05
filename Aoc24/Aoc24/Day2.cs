@@ -11,6 +11,7 @@ namespace Aoc24
         {
             var input = File.ReadAllLines("D2.txt").Select(e => e.Split(" ").Select(int.Parse).ToArray()).ToArray();
             int matches = 0;
+            int bonusMatches = 0;
 
             //Jesus christ here we go
             foreach (var row in input)
@@ -33,10 +34,50 @@ namespace Aoc24
                     matches += DistanceChecker(row);
                     continue;
                 }
+
+                for (int i = 0; i < row.Length; i++)
+                {
+                    var localResult = 0;
+                    dummy = InputMutation(row, i);
+                    var secondDummy = InputMutation(row, i);
+                    Array.Sort(dummy);
+
+                    if (dummy.SequenceEqual(secondDummy))
+                    {
+                        localResult = DistanceChecker(dummy);
+
+                        if (localResult == 1)
+                        {
+                            bonusMatches++;
+                            break;
+                        }
+                    }
+
+                    Array.Reverse(dummy);
+
+                    if (dummy.SequenceEqual(secondDummy))
+                    {
+                        localResult = DistanceChecker(dummy);
+
+                        if (localResult == 1)
+                        {
+                            bonusMatches++;
+                            break;
+                        }
+                    }
+                }
             }
             // Jesus ends here
 
-            Console.WriteLine("Fuck you: " + matches);
+            Console.WriteLine("Perfect matches: " + matches);
+            Console.WriteLine("Bonus matches: " + bonusMatches);
+        }
+
+        private static int[] InputMutation(int[] row, int index)
+        {
+            List<int> mutation = row.ToList();
+            mutation.RemoveAt(index);
+            return mutation.ToArray();
         }
 
         private static int DistanceChecker(int[] row)
@@ -50,7 +91,6 @@ namespace Aoc24
                     return 0;
                 }
             }
-
             return 1;
         }
     }
