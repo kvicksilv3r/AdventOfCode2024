@@ -31,3 +31,22 @@ C:\Projects\Code\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.dll
 C:\Projects\Code\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\ref\Aoc24.dll
 C:\Projects\Code\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.pdb
 C:\Projects\Code\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.genruntimeconfig.cache
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.exe
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.deps.json
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.runtimeconfig.json
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.runtimeconfig.dev.json
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.dll
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\Aoc24.pdb
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.csproj.AssemblyReference.cache
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.AssemblyInfoInputs.cache
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.AssemblyInfo.cs
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.csproj.CoreCompileInputs.cache
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.sourcelink.json
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.dll
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\refint\Aoc24.dll
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.pdb
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\Aoc24.genruntimeconfig.cache
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\obj\Debug\net5.0\ref\Aoc24.dll
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\D2.txt
+I:\Projects\Las proggas\AdventOfCode2024\Aoc24\Aoc24\bin\Debug\net5.0\D1.txt
